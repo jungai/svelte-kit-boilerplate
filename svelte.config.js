@@ -1,5 +1,7 @@
 import preprocess from 'svelte-preprocess';
 
+// {default config https://kit.svelte.dev/docs#configuration}
+
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
 	// Consult https://github.com/sveltejs/svelte-preprocess
